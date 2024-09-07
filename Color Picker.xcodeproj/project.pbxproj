@@ -660,7 +660,7 @@
 		};
 		E34BFAA52988F4C7002AB421 /* Defaults */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = E3E14060259A0D97004FC89F /* XCRemoteSwiftPackageReference "Defaults" */;
+			$package = E3E14060259A0D97004FC89F /* XCRemoteSwiftPackageReference "Defaults" */;
 			productName = Defaults;
 		};
 		E394DAB1263E965500F5B042 /* KeyboardShortcuts */ = {
